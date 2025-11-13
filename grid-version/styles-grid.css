@@ -407,9 +407,7 @@ h1, h2, h3, h4, h5, h6 {
   .flower-card img {
     height: 200px;
   }
-  /* === СТИЛІ ДЛЯ ПРАКТИЧНОЇ №5 === */
-
-/* Контейнери для завдань всередині Блоку 5 */
+  
 .task-container {
     margin-top: 25px;
     padding-top: 20px;
@@ -447,7 +445,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #555;
 }
 
-/* Стиль для динамічних списків, що додаються */
+
 ol.task5-list {
     margin-top: 15px;
     padding-left: 30px;
